@@ -1,7 +1,9 @@
 # Natural Language Processing
 
+### Unzip abcnews dataset & follow instruction on how to setup nltk package in notebook comment 
+
 ## Highlights :
-1. Configuration of nltk package (follow the instruction in the notebook accordingly)
+1. Configuration of nltk package
 2. Tokenisation (Sentence, word, tweet)
 3. Exploratory Data Analysis (EDA) of a paragraph
 4. Filtering stopwords
