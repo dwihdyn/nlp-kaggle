@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-### Unzip abcnews dataset & follow instruction on how to setup nltk package in notebook comment 
+Unzip abcnews dataset & follow instruction on how to setup nltk package in notebook comment 
 
 ## Highlights :
 1. Configuration of nltk package
@@ -10,15 +10,15 @@
 5. Stemming & Lemmatization
 6. Part of speech tagging
 7. Named Entity Recognition
-8. Sentiment analysis on movie review using scikitlearn & application of Vectorizer (count & TFIDF) - kaggle
+8. Sentiment analysis on movie review using scikitlearn & application of Vectorizer (count & TFIDF) - kaggle mp1
 9. Sentiment analysis on textblob 
 10. Sentiment analysis towards song lyrics (how positive/negative & fact/opinions the lyrics are) 
-11. Natural Language Generation (NLG) using markov chain - kaggle
+11. Natural Language Generation (NLG) using markov chain - kaggle mp2
 12. Important references
 
 - google drive source : https://drive.google.com/drive/folders/1ozzAQWn5U7XW2rIkPB963azowVZvzT3a
 - lecture : https://www.youtube.com/watch?v=nXbtY3uMyLw
-- 2 kaggle source attached to each "mini-project"
+- 2 kaggle source attached to each mini-project (mp)
 
 credit : shopee code league & Smartcademy
 
